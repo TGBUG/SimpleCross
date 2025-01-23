@@ -1,0 +1,5 @@
+name: SimpleCross
+version: '1.0.0'
+main: TGBUG.simpleCross.SimpleCross
+api-version: '1.18'
+load: STARTUP
